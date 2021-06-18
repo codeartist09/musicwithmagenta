@@ -3,6 +3,8 @@ bin/*
 mymidi/*
 midi/*
 tmp/*
+output/*
+output/generated/*
 ###
 
 
